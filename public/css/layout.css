@@ -197,7 +197,7 @@ ul#nav li a:active {
   background-color: transparent !important;
 }
 ul#nav li.current a {
-  color: #f06000;
+  color: #11abb0;
 }
 
 /* ------------------------------------------------------------------ */
@@ -513,7 +513,7 @@ ul#nav li.current a {
   height: 30px;
   width: 30px;
   font-size: 18px;
-  line-height: 30px;
+  line-height: 100px;
   text-align: center;
 
   opacity: 0;
