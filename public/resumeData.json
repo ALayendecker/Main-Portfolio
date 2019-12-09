@@ -1,0 +1,117 @@
+{
+  "main": {
+    "name": "Andrew Layendecker",
+    "occupation": "Web Developer/IT Enthusiast",
+    "description": "Interested in making peoples lives easier and bringing ideas to life",
+    "image": "profilepic.jpg",
+    "bio": "Web Developer with a CompTia A+ certification and a certificate in Full Stack development from SMU. Holds a B.A. in Psychology and Communications, which provided me with strong skills in interpersonal communication. These communication skills served me well as my time as a mental-health paraprofessional for children, a martial arts instructor and a special education teacher. I bring several years of technical experience in working with computers in retail, small business, and personal settings. Quick learner inspired by self-growth. I find great satisfaction in creating things that make people's lives easier and have many strong interests across software and web development including information technologies, project management, and cybersecurity.",
+    "contactmessage": "Feel free to send me an email if you have any inquiries",
+    "email": "andrewlayendecker@gmail.com",
+    "address": {
+      "city": "Dallas",
+      "state": "Texas"
+    },
+    "website": "http://www.andrewlayendecker.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/andrew-layendecker-b8156784/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/ALayendecker",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Skills I've learned and continue to develop",
+    "education": [
+      {
+        "school": "University of Arkansas",
+        "degree": "BA Psychology & BA Communications",
+        "graduated": "May 2013"
+      },
+      {
+        "school": "Southern Methodist University",
+        "degree": "Certification Full Stack Web Development",
+        "graduated": "December 2019"
+      },
+      {
+        "school": "CompTIA",
+        "degree": "CompTIA A+ Certification",
+        "graduated": "May 2019"
+      }
+    ],
+    "work": [
+      {
+        "company": "SMU Full Stack Web Development Certification",
+        "title": "Senior UX God ",
+        "years": "March 2010 - Present",
+        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company": "Super Cool Studio",
+        "title": "Junior bug fixer",
+        "years": "March 2007 - February 2010",
+        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git | JavaScript | Node.js | React.js | CSS | HTML5"
+      },
+      {
+        "name": "ES6 | Express.js | AJAX"
+      },
+      {
+        "name": "MERN Stack | MongoDB | Mongoose"
+      },
+      {
+        "name": "MySQL | Sequelize"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Kollekt",
+        "category": "Collection Enthusiast Cataloger",
+        "image": "Kollektscreenshot.png",
+        "url": "https://kollekt-1.herokuapp.com/"
+      },
+      {
+        "title": "Quirk.",
+        "category": "A To-Do list/Project Management Tool",
+        "image": "Quirkscreenshot.png",
+        "url": "https://project-two-0.herokuapp.com/"
+      },
+      {
+        "title": "Mood Music",
+        "category": "Randomly Generated Mood Music",
+        "image": "Moodscreenshot.png",
+        "url": "https://alayendecker.github.io/Proj1-Continuation/"
+      },
+      {
+        "title": "Train Tracker",
+        "category": "Small Firebase App for Tracking Train Schedules",
+        "image": "Trainscreenshot.png",
+        "url": "https://alayendecker.github.io/Train-Time/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
