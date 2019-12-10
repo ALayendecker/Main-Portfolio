@@ -4,7 +4,7 @@
     "occupation": "Full Stack Developer/IT Enthusiast",
     "description": "Interested in making peoples lives easier and bringing ideas to life",
     "image": "profilepic.jpg",
-    "bio": "Full Stack Developer with a CompTia A+ certification and a certificate in Full Stack development from SMU. Holds a B.A. in Psychology and Communications, which provided me with strong skills in interpersonal communication. These communication skills served me well as my time as a mental-health paraprofessional for children, a martial arts instructor and a special education teacher. I bring several years of technical experience in working with computers in retail, small business, and personal settings. Quick learner inspired by self-growth. I find great satisfaction in creating things that make people's lives easier and have many strong interests across software and web development including information technologies, project management, and cybersecurity.",
+    "bio": "Full Stack Developer with a CompTia A+ certification and a certificate in Full Stack development from SMU. Holds a B.A. in Psychology and Communications, which provided me with strong skills in interpersonal communication. These communication skills served me well as my time as a mental-health paraprofessional for children, a martial arts instructor and a special education teacher. I bring several years of technical experience in working with computers in retail, small business, and personal settings. Quick learner inspired by self-growth. I find great satisfaction in creating things that make people's lives easier and have many strong interests across software and full stack development including information technologies, project management, and cybersecurity.",
     "contactmessage": "Feel free to send me an email if you have any inquiries",
     "email": "andrewlayendecker@gmail.com",
     "address": {
@@ -36,7 +36,7 @@
       },
       {
         "school": "Southern Methodist University",
-        "degree": "Certification Full Stack Web Development",
+        "degree": "Certification Full Stack Development",
         "graduated": "December 2019"
       },
       {
@@ -47,7 +47,7 @@
     ],
     "work": [
       {
-        "company": "SMU Full Stack Web Development Certification",
+        "company": "SMU Full Stack Development Certification",
         "title": "Senior UX God ",
         "years": "March 2010 - Present",
         "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
