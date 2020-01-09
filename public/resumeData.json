@@ -99,6 +99,12 @@
         "category": "Small Firebase App for Tracking Train Schedules",
         "image": "Trainscreenshot.png",
         "url": "https://alayendecker.github.io/Train-Time/"
+      },
+      {
+        "title": "Andrew University",
+        "category": "Student Manager written in C#. Using EF 6, and ASP.NET with MVC 5",
+        "image": "AndrewUniversity.png",
+        "url": "https://github.com/ALayendecker/AndrewUniversity"
       }
     ]
   },
