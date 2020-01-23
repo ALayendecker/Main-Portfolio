@@ -23,12 +23,12 @@ class Portfolio extends Component {
             </div>
             <a href={projects.githubUrl}>
               <button className="portBtn">
-                <i className="fa fa-github"></i> Github
+                <i className="fab fa-github"></i> Github
               </button>
             </a>
             <a href={projects.webUrl}>
               <button className="portBtn">
-                <i className="fa fa-window-restore"></i> Web
+                <i className="far fa-window-restore"></i> Web
               </button>
             </a>
           </div>
