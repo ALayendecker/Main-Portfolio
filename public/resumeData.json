@@ -17,12 +17,12 @@
       {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/andrew-layendecker-b8156784/",
-        "className": "fa fa-linkedin"
+        "className": "fab fa-linkedin"
       },
       {
         "name": "github",
         "url": "https://github.com/ALayendecker",
-        "className": "fa fa-github"
+        "className": "fab fa-github"
       }
     ]
   },
@@ -80,31 +80,28 @@
         "title": "Kollekt",
         "category": "Collection Enthusiast Cataloger",
         "image": "Kollektscreenshot.png",
-        "url": "https://kollekt-1.herokuapp.com/"
+        "webUrl": "https://kollekt-1.herokuapp.com/",
+        "githubUrl": "https://github.com/ALayendecker/Kollekt-Source-Code"
       },
       {
         "title": "Quirk.",
         "category": "A To-Do list/Project Management Tool",
         "image": "Quirkscreenshot.png",
-        "url": "https://project-two-0.herokuapp.com/"
+        "webUrl": "https://project-two-0.herokuapp.com/",
+        "githubUrl": "https://github.com/ALayendecker/Project-2"
       },
       {
         "title": "Mood Music",
         "category": "Randomly Generated Mood Music",
         "image": "Moodscreenshot.png",
-        "url": "https://alayendecker.github.io/Proj1-Continuation/"
-      },
-      {
-        "title": "Train Tracker",
-        "category": "Small Firebase App for Tracking Train Schedules",
-        "image": "Trainscreenshot.png",
-        "url": "https://alayendecker.github.io/Train-Time/"
+        "webUrl": "https://alayendecker.github.io/Proj1-Continuation/",
+        "githubUrl": "https://github.com/ALayendecker/Proj1-Continuation"
       },
       {
         "title": "Andrew University",
         "category": "Student Manager written in C#. Using EF 6, and ASP.NET with MVC 5",
         "image": "AndrewUniversity.png",
-        "url": "https://github.com/ALayendecker/AndrewUniversity"
+        "githubUrl": "https://github.com/ALayendecker/AndrewUniversity"
       }
     ]
   },

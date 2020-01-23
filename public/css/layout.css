@@ -488,6 +488,17 @@ ul#nav li.current a {
   cursor: pointer;
 }
 
+.portBtn {
+  background-color: #444;
+  padding: 10px;
+  margin: 0px 10px auto;
+  margin-top: 10px;
+}
+
+.portBtn:hover {
+  background-color: #11abb0;
+}
+
 /* overlay */
 .portfolio-item .item-wrap .overlay {
   position: absolute;
