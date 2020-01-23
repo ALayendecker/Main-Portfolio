@@ -493,11 +493,8 @@ ul#nav li.current a {
   padding-left: 10px;
   padding-right: 10px;
   position: relative;
-  left: 4%;
-  margin: 10px;
+  margin: auto;
   margin-top: 10px;
-  text-align: center;
-  align-items: center;
 }
 
 .portBtn:hover {

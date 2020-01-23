@@ -25,7 +25,7 @@ class Portfolio extends Component {
               <button className="portBtn">Github</button>
             </a>
             <a href={projects.webUrl}>
-              <button className="portBtn">Website</button>
+              <button className="portBtn">Deployment</button>
             </a>
           </div>
         );

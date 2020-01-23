@@ -492,12 +492,9 @@ ul#nav li.current a {
   background-color: #444;
   padding-left: 10px;
   padding-right: 10px;
-  position: relative;
-  left: 4%;
+  position: absolute;
   margin: 10px;
   margin-top: 10px;
-  text-align: center;
-  align-items: center;
 }
 
 .portBtn:hover {
