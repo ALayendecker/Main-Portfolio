@@ -78,21 +78,21 @@
     "projects": [
       {
         "title": "Kollekt",
-        "category": "Collection Enthusiast Cataloger",
+        "category": "Collection Enthusiast Cataloger uses React, AtlasDB, Mongoose, Node.js, w/ Authentication",
         "image": "Kollektscreenshot.png",
         "webUrl": "https://kollekt-1.herokuapp.com/",
         "githubUrl": "https://github.com/ALayendecker/Kollekt-Source-Code"
       },
       {
         "title": "Quirk.",
-        "category": "A To-Do list/Project Management Tool",
+        "category": "A To-Do list/Project Management Tool uses MySQL, w/ Authentication",
         "image": "Quirkscreenshot.png",
         "webUrl": "https://project-two-0.herokuapp.com/",
         "githubUrl": "https://github.com/ALayendecker/Project-2"
       },
       {
         "title": "Mood Music",
-        "category": "Randomly Generated Mood Music",
+        "category": "Randomly Generated Mood Music uses, youtube API, Bootstrap, JQuery, and Javascript",
         "image": "Moodscreenshot.png",
         "webUrl": "https://alayendecker.github.io/Proj1-Continuation/",
         "githubUrl": "https://github.com/ALayendecker/Proj1-Continuation"
@@ -101,6 +101,7 @@
         "title": "Andrew University",
         "category": "Student Manager written in C#. Using EF 6, and ASP.NET with MVC 5",
         "image": "AndrewUniversity.png",
+        "webUrl": "https://github.com/ALayendecker/AndrewUniversity#andrewuniversity",
         "githubUrl": "https://github.com/ALayendecker/AndrewUniversity"
       }
     ]
